@@ -6,7 +6,7 @@ So,first things first
 
 then,
 
-->Take a snap of a face to be recognized and save in the director(face_rec) as (say) xyz.jpg .Make sure to make the change the the name 'sdey.jpg' to the 'xyz.jpg' in the facerec.py file
+->Take a snap of a face to be recognized and save in the director(face_recognition) as (say) xyz.jpg .Make sure to make the change the the name 'sdey.jpg' to the 'xyz.jpg' in the facerec.py file
 
 ->run facerec.py
 
